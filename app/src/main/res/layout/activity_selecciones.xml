@@ -2,7 +2,8 @@
     xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="copamerica.panini.Selecciones">
+    tools:context="copamerica.panini.Selecciones"
+    android:background="@drawable/fondo_futbol">
 
     <ImageView
         android:layout_width="200dp"
